@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-28T00:43:27.740Z'
+datePublished: '2016-08-28T00:43:43.724Z'
 sourcePath: _posts/2016-08-28-how-i-train-my-worship-team.md
 inFeed: true
 hasPage: true
@@ -17,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-28T00:43:12.743Z'
+dateModified: '2016-08-28T00:43:27.774Z'
 title: How I train my worship team
 app_links: []
 publisher:
