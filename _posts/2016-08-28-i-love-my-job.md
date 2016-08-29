@@ -1,14 +1,16 @@
 ---
-datePublished: '2016-08-28T00:49:04.570Z'
+datePublished: '2016-08-28T01:09:17.408Z'
 sourcePath: _posts/2016-08-28-i-love-my-job.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-28T00:49:01.732Z'
+dateModified: '2016-08-28T01:09:16.889Z'
 title: I love my job!
 id: aa9f6fed-5359-454e-90ee-aabaa5b13016
-publisher: {}
+publisher:
+  name: Planning Center
+  url: 'https://planning.center/'
 description: >-
   In April, I started working for Planning Center. This has been the best career
   move I’ve ever made. I’ve been a long-time Planning Center fanboy since it
@@ -21,7 +23,7 @@ url: i-love-my-job/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a98b7c1f-cacf-4993-b228-3eb4393e9af6.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af5bd29d-3bff-4c27-8363-c39d5bd14db3.png)
 
 # I love my job!
 
