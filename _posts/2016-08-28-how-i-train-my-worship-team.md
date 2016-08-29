@@ -1,7 +1,8 @@
 ---
-datePublished: '2016-08-28T00:34:01.415Z'
+datePublished: '2016-08-28T00:43:27.740Z'
 sourcePath: _posts/2016-08-28-how-i-train-my-worship-team.md
-isBasedOnUrl: 'http://worshiponline.com'
+inFeed: true
+hasPage: true
 keywords:
   - worship
   - musicians
@@ -16,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-28T00:33:58.703Z'
+dateModified: '2016-08-28T00:43:12.743Z'
 title: How I train my worship team
 app_links: []
 publisher:
@@ -33,9 +34,7 @@ description: >-
   different thing.
 inLanguage: en
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: how-i-train-my-worship-team/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
