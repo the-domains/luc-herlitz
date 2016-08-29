@@ -1,16 +1,16 @@
-typography_spectrum: 0.3868867
+layout_spectrum: 0.02769505139440298
+typography_spectrum: 0.4777816941495985
 color:
-  saturation: 0.7852234
-  lightness: 0.8083705
-  brandStrength: 0.03035956
-  rhythmicContrast: 0.901883
+  saturation: 0.2660613446496427
+  lightness: 0.23535040044225752
+  brandStrength: 0.5543068482074887
+  rhythmicContrast: 0.9867478308733553
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-layout_spectrum: 0.138251
+    - '#FFFFFF'
+    - '#EDD2B7'
+    - '#504235'
+    - '#708BA8'
+    - '#9A6545'
 name: Luc Herlitz
 title: all about Luc
 description: whether you cared or not
