@@ -1,4 +1,3 @@
-layout_spectrum: 0.138251
 typography_spectrum: 0.3868867
 color:
   saturation: 0.7852234
@@ -11,4 +10,6 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.138251
 name: Luc Herlitz
+title: all about Luc
