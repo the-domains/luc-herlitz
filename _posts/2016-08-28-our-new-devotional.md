@@ -1,6 +1,7 @@
 ---
-datePublished: '2016-08-28T00:27:03.752Z'
-isBasedOnUrl: 'https://www.rightnow.org/Content/Series/549'
+datePublished: '2016-08-28T00:55:34.590Z'
+sourcePath: _posts/2016-08-28-our-new-devotional.md
+hasPage: true
 keywords:
   - channels
   - rightnow
@@ -15,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-28T00:26:58.780Z'
+dateModified: '2016-08-28T00:54:57.288Z'
 title: Our new devotional
 app_links: []
 publisher:
@@ -28,10 +29,7 @@ description: >-
   loving it!
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-28-our-new-devotional.md
-inFeed: true
-hasPage: false
-inNav: false
+url: our-new-devotional/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
