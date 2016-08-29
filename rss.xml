@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Luc Herlitz]]></title>
+        <description><![CDATA[Luc Herlitz]]></description>
+        <link>https://thegrid.ai/luc-herlitz/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 28 Aug 2016 00:19:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/luc-herlitz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I love my job!]]></title>
+            <description><![CDATA[<article><h1>I love my job!</h1><p>In April, I started working for Planning Center. This has been the best career move I’ve ever made. I’ve been a long-time Planning Center fanboy since it became a thing ten years ago. In fact, I almost started working there nine years ago. I had a few interviews with Jeff and for one reason or another, I turned him down. It’s not often you get a chance to correct a major mistake like that, but I’m glad I got the chance!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a98b7c1f-cacf-4993-b228-3eb4393e9af6.jpg"></article>]]></description>
+            <link>https://planning.center</link>
+            <guid isPermaLink="false">aa9f6fed-5359-454e-90ee-aabaa5b13016</guid>
+            <pubDate>Sun, 28 Aug 2016 00:19:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Keybase]]></title>
+            <description><![CDATA[<article><h1>Keybase</h1><p>I’ve always been a fan of security and encryption. Keybase is looking to make encryption easier for the “regular, everyday person” to use. In addition, they’ve come up with a brilliant online storage option that can sign your files, encrypt them, or create a shared folder and encrypt it for select recipients. Even if you don’t know their encryption information, you can put in something like their Twitter handle. It’s in alpha stage right now, but the results are looking great.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e1be2b03b11868fccea0bf7b19a84a3477822ee.jpg"></article>]]></description>
+            <link>https://keybase.io/lucherlitz</link>
+            <guid isPermaLink="false">6bcf1a87-4e24-47f5-b6d1-343e7bfe9c3c</guid>
+            <pubDate>Sun, 28 Aug 2016 00:11:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
