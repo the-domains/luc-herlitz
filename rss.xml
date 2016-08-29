@@ -4,8 +4,22 @@
         <description><![CDATA[all about Luc]]></description>
         <link>https://thegrid.ai/luc-herlitz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 00:46:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 00:56:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/luc-herlitz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I love my job!]]></title>
+            <description><![CDATA[<article><h1>I love my job!</h1><p>In April, I started working for Planning Center. This has been the best career move I’ve ever made. I’ve been a long-time Planning Center fanboy since it became a thing ten years ago. In fact, I almost started working there nine years ago. I had a few interviews with Jeff and for one reason or another, I turned him down. It’s not often you get a chance to correct a major mistake like that, but I’m glad I got the chance!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a98b7c1f-cacf-4993-b228-3eb4393e9af6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/luc-herlitz/i-love-my-job/index.html</link>
+            <guid isPermaLink="false">aa9f6fed-5359-454e-90ee-aabaa5b13016</guid>
+            <pubDate>Sun, 28 Aug 2016 00:49:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Our new devotional]]></title>
+            <description><![CDATA[<article><h1>Our new devotional</h1><p>Tiah and I have started watching this video series on Right Now Media. We’re loving it!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8fced80907e633a16653156820dfb2f478fd4caa.jpg"></article>]]></description>
+            <link>https://thegrid.ai/luc-herlitz/our-new-devotional/index.html</link>
+            <guid isPermaLink="false">c67afa3c-e7f8-4602-b1e9-e494345a615d</guid>
+            <pubDate>Sun, 28 Aug 2016 00:55:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Keybase]]></title>
             <description><![CDATA[<article><h1>Keybase</h1><p>I’ve always been a fan of security and encryption. Keybase is looking to make encryption easier for the “regular, everyday person” to use. In addition, they’ve come up with a brilliant online storage option that can sign your files, encrypt them, or create a shared folder and encrypt it for select recipients. Even if you don’t know their encryption information, you can put in something like their Twitter handle. It’s in alpha stage right now, but the results are looking great.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e1be2b03b11868fccea0bf7b19a84a3477822ee.jpg"></article>]]></description>
@@ -19,13 +33,6 @@
             <link>https://thegrid.ai/luc-herlitz/how-i-train-my-worship-team/index.html</link>
             <guid isPermaLink="false">12927917-9b67-49a3-88b4-d12dbbc26e21</guid>
             <pubDate>Sun, 28 Aug 2016 00:46:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Our new devotional]]></title>
-            <description><![CDATA[<article><h1>Our new devotional</h1><p>Tiah and I have started watching this video series on Right Now Media. We’re loving it!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8fced80907e633a16653156820dfb2f478fd4caa.jpg"></article>]]></description>
-            <link>https://www.rightnow.org/Content/Series/549</link>
-            <guid isPermaLink="false">c67afa3c-e7f8-4602-b1e9-e494345a615d</guid>
-            <pubDate>Sun, 28 Aug 2016 00:27:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
