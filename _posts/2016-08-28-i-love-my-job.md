@@ -1,24 +1,9 @@
 ---
-datePublished: '2016-08-28T00:19:21.395Z'
-isBasedOnUrl: 'https://planning.center'
-keywords:
-  - apps
-  - pco
-  - web-based
-  - 30-day
-  - task
-  - church
-  - use
-  - center
-  - get
-  - page
-related: []
-author: []
-via: {}
-dateModified: '2016-08-28T00:19:10.510Z'
+id: aa9f6fed-5359-454e-90ee-aabaa5b13016
+dateModified: '2016-08-28T00:30:41.915Z'
 title: I love my job!
-app_links: []
-publisher: {}
+datePublished: '2016-08-28T00:30:42.551Z'
+author: []
 description: >-
   In April, I started working for Planning Center. This has been the best career
   move I’ve ever made. I’ve been a long-time Planning Center fanboy since it
@@ -26,13 +11,13 @@ description: >-
   years ago. I had a few interviews with Jeff and for one reason or another, I
   turned him down. It’s not often you get a chance to correct a major mistake
   like that, but I’m glad I got the chance!
-inLanguage: en
-starred: false
+publisher: {}
+via: {}
+starred: true
 sourcePath: _posts/2016-08-28-i-love-my-job.md
 inFeed: true
 hasPage: false
 inNav: false
-_context: 'http://schema.org'
 _type: MediaObject
 
 ---
