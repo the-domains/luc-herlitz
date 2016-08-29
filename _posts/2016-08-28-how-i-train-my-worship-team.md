@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-28T00:31:33.889Z'
+datePublished: '2016-08-28T00:31:37.016Z'
 sourcePath: _posts/2016-08-28-how-i-train-my-worship-team.md
 isBasedOnUrl: 'http://worshiponline.com'
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-28T00:31:26.674Z'
+dateModified: '2016-08-28T00:31:36.210Z'
 title: How I train my worship team
 app_links: []
 publisher:
