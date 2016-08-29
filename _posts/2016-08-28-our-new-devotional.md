@@ -1,6 +1,7 @@
 ---
-datePublished: '2016-08-28T00:55:34.590Z'
+datePublished: '2016-08-28T00:55:45.540Z'
 sourcePath: _posts/2016-08-28-our-new-devotional.md
+inFeed: true
 hasPage: true
 keywords:
   - channels
@@ -16,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-28T00:54:57.288Z'
+dateModified: '2016-08-28T00:55:43.246Z'
 title: Our new devotional
 app_links: []
 publisher:
