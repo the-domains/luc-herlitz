@@ -1,8 +1,8 @@
 ---
 id: aa9f6fed-5359-454e-90ee-aabaa5b13016
-dateModified: '2016-08-28T00:48:50.434Z'
+dateModified: '2016-08-28T00:48:53.061Z'
 title: I love my job!
-datePublished: '2016-08-28T00:48:50.811Z'
+datePublished: '2016-08-28T00:48:53.572Z'
 author: []
 description: >-
   In April, I started working for Planning Center. This has been the best career
@@ -14,7 +14,7 @@ description: >-
 publisher: {}
 via: {}
 sourcePath: _posts/2016-08-28-i-love-my-job.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
