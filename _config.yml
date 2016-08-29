@@ -1,4 +1,3 @@
-layout_spectrum: 0.02769505139440298
 typography_spectrum: 0.4777816941495985
 color:
   saturation: 0.2660613446496427
@@ -11,6 +10,9 @@ color:
     - '#504235'
     - '#708BA8'
     - '#9A6545'
+layout_spectrum: 0.02769505139440298
 name: Luc Herlitz
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/36697979-fe86-4ea8-a88b-96bdfcc83f58.jpg
 title: all about Luc
 description: whether you cared or not
