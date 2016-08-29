@@ -1,16 +1,16 @@
-layout_spectrum: 0.21316394861787558
-typography_spectrum: 0.170880694873631
+layout_spectrum: 0.3926426824182272
+typography_spectrum: 0.41489025740884244
 color:
-  saturation: 0.22519879462197423
-  lightness: 0.5069931210018694
-  brandStrength: 0.8072459835093468
-  rhythmicContrast: 0.3009224906563759
+  saturation: 0.19233034388162196
+  lightness: 0.22391152242198586
+  brandStrength: 0.5111556735355407
+  rhythmicContrast: 0.623247696319595
   brandColors:
-    - '#1A1F2B'
-    - '#30395C'
-    - '#4A6491'
-    - '#85A5CC'
-    - '#D0E4F2'
+    - '#FFF8E3'
+    - '#CCCC9F'
+    - '#33332D'
+    - '#9FB4CC'
+    - '#DB4105'
 name: Luc Herlitz
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/36697979-fe86-4ea8-a88b-96bdfcc83f58.jpg
