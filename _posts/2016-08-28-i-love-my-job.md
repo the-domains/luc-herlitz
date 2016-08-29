@@ -1,9 +1,14 @@
 ---
-id: aa9f6fed-5359-454e-90ee-aabaa5b13016
-dateModified: '2016-08-28T00:48:53.061Z'
-title: I love my job!
-datePublished: '2016-08-28T00:48:53.572Z'
+datePublished: '2016-08-28T00:49:04.570Z'
+sourcePath: _posts/2016-08-28-i-love-my-job.md
+inFeed: true
+hasPage: true
 author: []
+via: {}
+dateModified: '2016-08-28T00:49:01.732Z'
+title: I love my job!
+id: aa9f6fed-5359-454e-90ee-aabaa5b13016
+publisher: {}
 description: >-
   In April, I started working for Planning Center. This has been the best career
   move I’ve ever made. I’ve been a long-time Planning Center fanboy since it
@@ -11,14 +16,9 @@ description: >-
   years ago. I had a few interviews with Jeff and for one reason or another, I
   turned him down. It’s not often you get a chance to correct a major mistake
   like that, but I’m glad I got the chance!
-publisher: {}
-via: {}
-sourcePath: _posts/2016-08-28-i-love-my-job.md
 starred: true
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: i-love-my-job/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a98b7c1f-cacf-4993-b228-3eb4393e9af6.jpg)
